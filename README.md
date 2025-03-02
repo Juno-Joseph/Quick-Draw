@@ -15,5 +15,5 @@ https://github.com/user-attachments/assets/33c4a0d4-cda4-4ce7-86b3-c359c7770dfc
 pops up by pressing spacebar. The frog is an AI that inherits from the same swordsman class as the player.
 The  ![Image](https://github.com/user-attachments/assets/bffe5dde-8888-4196-a10a-8d9be2dc218a) pops up based off a randomized timer
 that is set between two time intervals. The frog AI has a set time of when it can attack. It can be modified to make the game
-harder. If the player presses spacebar to early then a  ![Image](https://github.com/user-attachments/assets/bffe5dde-8888-4196-a10a-8d9be2dc218a)
+harder. If the player presses spacebar to early then a ![Image](https://github.com/user-attachments/assets/5c56ecfe-54c1-45e9-b134-ac78dd2c8cb0)
 will appear and they will be unable to move, losing them the game.
