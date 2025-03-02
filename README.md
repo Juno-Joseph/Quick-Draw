@@ -7,6 +7,8 @@ Most of the assets were taken from a guide that I was following, except for the 
 left character (The one you play as), which was made by me. He is based off a "One Piece" character
 and his name is Zoro.
 
+![Image](https://github.com/user-attachments/assets/81dd5f42-67c9-4506-a677-3c7b4be1df34)
+
 Gameplay
 
 https://github.com/user-attachments/assets/33c4a0d4-cda4-4ce7-86b3-c359c7770dfc
